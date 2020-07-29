@@ -1,0 +1,28 @@
+/* START */
+.start h1 {
+	margin: 60px 0 20px;
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+	color: #353b48;
+}
+
+.start p {
+	text-align: center;
+}
+
+/* FOOTER */
+.footer {
+	margin-top: 100px;
+}
+
+.footer p {
+	border-top: 1px solid #dcdde1;
+	padding-top: 20px;
+	color: #718093;
+	font-size: 12px;
+	text-align: center;
+}
+
+span .navbar-text {
+	padding-right: 5px;
+}
